@@ -2,7 +2,7 @@
 
 To run project should have :
 
-1-apache server with mysql DB(xaaamp)
+1-apache server with mysql DB(xaaamp).
 
 when you run the project it will automatically create database "foodRecipes" and insert some data
 
