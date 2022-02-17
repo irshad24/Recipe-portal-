@@ -12,4 +12,4 @@ email : johndoe@gmail.com
 
 password : johndoe101
 
-or create new user
+or create new user.
