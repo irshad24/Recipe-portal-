@@ -1,5 +1,5 @@
 # food-recipes pure PHP:
-
+,
 To run project should have :
 
 1-apache server with mysql DB(xaaamp).
@@ -12,4 +12,4 @@ email : johndoe@gmail.com.
 
 password : johndoe101
 
-or create new user
+or create new user.
