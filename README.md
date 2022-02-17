@@ -1,4 +1,4 @@
-# food-recipes pure PHP
+# food-recipes pure PHP:
 
 To run project should have :
 
