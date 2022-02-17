@@ -8,7 +8,7 @@ when you run the project it will automatically create database "foodRecipes" and
 
 you can login using :
 
-email : johndoe@gmail.com
+email : johndoe@gmail.com.
 
 password : johndoe101
 
